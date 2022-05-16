@@ -26,7 +26,7 @@ namespace Biletarnica
             cmb_sala.Enabled = false;
             txt_cena.Enabled = false;
             btn_Dodaj_ponudu.Enabled = false;
-            //textBox1.Hide();
+            textBox1.Hide();
         }
         private void cmb_film_populate()
         {
