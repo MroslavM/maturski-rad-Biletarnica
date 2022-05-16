@@ -22,7 +22,7 @@ namespace Biletarnica
         {
             if (txt_email.Text == "" || txt_pass == null)
             {
-                MessageBox.Show("Morate uneti i email i sifru kako bi ste pristupili e-dnevniku");
+                MessageBox.Show("Morate uneti i email i sifru kako bi ste pristupili aplikaciji");
                 return;
             }
             else
